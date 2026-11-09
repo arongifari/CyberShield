@@ -1,4 +1,7 @@
+<img width="1035" height="875" alt="Image" src="https://github.com/user-attachments/assets/a0f729ef-c9e0-4f15-bc25-8450d1da78fc" />
+
 # 🛡️ CyberShield3 - Modular Security Tool
+
 
 **CyberShield3** adalah alat keamanan modular berbasis Bash Shell untuk analisis hash malware, pemantauan integritas berkas (FIM), dan karantina terisolasi di Linux (disesuaikan untuk Parrot OS / Kali Linux).
 

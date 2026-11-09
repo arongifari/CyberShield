@@ -12,7 +12,7 @@
 
 ---
 
-### 📥 1. Unduh (Clone) Repositori
+### 📥 1. Unduh (Clone) Repositori, beri izin eksekusi, dan menjalankan tools
 Buka terminal Anda dan jalankan perintah berikut untuk mengunduh proyek:
 
 ```

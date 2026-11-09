@@ -19,6 +19,10 @@ Buka terminal Anda dan jalankan perintah berikut untuk mengunduh proyek:
 git clone [https://github.com/arongifari/CyberShield.git](https://github.com/arongifari/CyberShield.git)
 cd CyberShield
 
+---
+
 chmod +x cybershield.sh
+
+---
 
 ./cybershield.sh
